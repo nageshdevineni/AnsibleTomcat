@@ -1,0 +1,10 @@
+all:
+  hosts:
+    AWS
+  children:
+    webservers:
+      hosts:
+        107.23.150.171
+    dbservers:
+      hosts:
+        107.23.150.171
