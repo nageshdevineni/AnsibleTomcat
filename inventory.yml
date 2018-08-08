@@ -2,7 +2,7 @@ all:
   hosts:
     AWS
   children:
-    webservers:
+    tomcat_servers:
       hosts:
         107.23.150.171
     dbservers:
