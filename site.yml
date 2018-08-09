@@ -6,6 +6,6 @@
   
   roles:
      - tomcat8
-     - crud_deploy/tasks
+     - crud_deploy
 
 
