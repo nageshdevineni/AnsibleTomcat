@@ -6,7 +6,6 @@
   
   roles:
      - tomcat8
-     - mysql
      - crud_deploy/tasks
 
 
