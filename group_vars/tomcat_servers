@@ -42,6 +42,6 @@ heap_dump_dir: /opt/tomcat/logs/
 
 nexus_grp_id: com.app
 artifact_name: crudApp
-nexus_extentions: war
+nexus_extentions: .war
 nexus_repo_url: 'http://54.86.215.59:8081/nexus/content/repositories/releases'
 artifact_destination: '/opt/tomcat/webapps/crudapp.war'
