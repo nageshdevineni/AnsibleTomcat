@@ -40,8 +40,8 @@ heap_dump_dir: /opt/tomcat/logs/
 
 ##### Maven_repositopry_details #####
 
-nexus_grp_id: com.crudapp.main
-artifact_name: CRUDAPP
+nexus_grp_id: com.app
+artifact_name: crudApp
 nexus_extentions: war
 nexus_repo_url: 'http://54.86.215.59:8081/nexus/content/repositories/releases'
 artifact_destination: '/opt/tomcat/webapps/crudapp.war'
